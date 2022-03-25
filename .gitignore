@@ -1,0 +1,7 @@
+
+# python virtual env
+bin/
+lib/
+lib64
+pyvenv.cfg
+share/
